@@ -28,3 +28,11 @@
 
 # "temporary" build files
 /target
+
+# Mac OSX
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
